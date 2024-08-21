@@ -1,0 +1,7 @@
+disnake
+asyncio
+requests
+blockcypher
+pycoingecko
+urllib3
+datetime
