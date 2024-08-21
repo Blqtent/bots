@@ -260,5 +260,5 @@ class AmountModal(discord.ui.Modal):
         await asyncio.sleep(60)
         await self.parent_view.channel.delete()
 
-bot.run("MTI3NTYwMDkwOTAyMzMxODE3Nw.GrrUyI.Ma-tT7S-KFYmtc2K_TtPE-GXbP3dShqtcltFN4")
+bot.run("")
 
